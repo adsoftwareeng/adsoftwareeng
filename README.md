@@ -18,7 +18,7 @@
 
 ## 🚀 Featured Projects  
 
-### [Integrate Instagram reels/post on Website](https://github.com/adsoftwareeng/integration-instgram-reels-on-the-website)  
+### [Integrate Instagram reel/post on Website](https://github.com/adsoftwareeng/integration-instgram-reels-on-the-website)  
 
 Integrate Instagram Reels and Posts into your website.
 
