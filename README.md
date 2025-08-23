@@ -24,10 +24,7 @@ Integrate Instagram Reels and Posts into your website.
 
 ⚡ Tech: HTML, CSS, JavaScript, PHP
 
-🚀 Features:
-
-           - Display Instagram Reels and Posts dynamically via Instagram API or using embedded codes.
-          -  Easy to integrate into any PHP website.
+🚀 Features:  Display Instagram Reels and Posts dynamically via Instagram API or using embedded codes.
   
 ### [Multi-Role Login + Stripe](https://github.com/adsoftwareeng/multi-role-login-stripe)  
 Role-based login system for **Students & Teachers** with **Stripe payment gateway integration**.  
