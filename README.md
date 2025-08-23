@@ -19,9 +19,13 @@
 ## 🚀 Featured Projects  
 
 ### [Integrate Instagram Website](https://github.com/adsoftwareeng/integration-instgram-reels-on-the-website)  
+
 Integrate Instagram Reels and Posts into your website.
+
 ⚡ Tech: HTML, CSS, JavaScript, PHP
+
 🚀 Features:
+
            - Display Instagram Reels and Posts dynamically via Instagram API or using embedded codes.
           -  Easy to integrate into any PHP website.
   
