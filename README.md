@@ -18,7 +18,7 @@
 
 ## 🚀 Featured Projects  
 
-### [Integrate Instagram Website](https://github.com/adsoftwareeng/integration-instgram-reels-on-the-website)  
+### [Integrate Instagram reels/post on Website](https://github.com/adsoftwareeng/integration-instgram-reels-on-the-website)  
 
 Integrate Instagram Reels and Posts into your website.
 
@@ -31,7 +31,6 @@ Role-based login system for **Students & Teachers** with **Stripe payment gatewa
 - ⚡ Tech: Laravel, MySQL  
 - 🚀 Features: Role management, Payment integration, Secure authentication  
 
-*(More projects in repositories 👉 check pinned repos)*  
 
 ---
 
