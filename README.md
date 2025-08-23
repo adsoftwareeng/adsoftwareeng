@@ -18,11 +18,13 @@
 
 ## 🚀 Featured Projects  
 
-### [Dwiggy Doo](https://github.com/adsoftwareeng/dwiggydoo)  
-Instagram-like platform with **real-time chat, reels, posts, push notifications, and iPhone login**.  
-- ⚡ Tech: Laravel, WebSockets, Bootstrap, MySQL  
-- 🚀 Features: Real-time messaging, User settings module, Notifications  
-
+### [Integrate Instagram Website](https://github.com/adsoftwareeng/integration-instgram-reels-on-the-website)  
+Integrate Instagram Reels and Posts into your website.
+⚡ Tech: HTML, CSS, JavaScript, PHP
+🚀 Features:
+           - Display Instagram Reels and Posts dynamically via Instagram API or using embedded codes.
+          -  Easy to integrate into any PHP website.
+  
 ### [Multi-Role Login + Stripe](https://github.com/adsoftwareeng/multi-role-login-stripe)  
 Role-based login system for **Students & Teachers** with **Stripe payment gateway integration**.  
 - ⚡ Tech: Laravel, MySQL  
