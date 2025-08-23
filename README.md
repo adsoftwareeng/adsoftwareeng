@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alok Dixit  
 
-💻 **Full Stack PHP/Laravel Developer** with 4+ years of experience in building **scalable web applications, REST APIs, e-commerce platforms, and dynamic portals**.  
+💻 **Full Stack PHP/Laravel Developer** with 4 years of experience in building **scalable web applications, REST APIs, e-commerce platforms, and dynamic portals**.  
 ⚡ Skilled in **MVC Architecture, OOPs, Debugging, Payment Gateway Integration, and API Development**.  
 🌱 Currently upskilling in **Node.js & React.js** to strengthen full-stack expertise.  
 
