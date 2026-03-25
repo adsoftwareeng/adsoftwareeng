@@ -1,23 +1,69 @@
 # 👋 Hi, I’m Alok Dixit  
+💻 **Backend-Focused Software Engineer | PHP/Laravel Developer | API Specialist**  
 
-💻 **Software Engineer | Full Stack PHP/Laravel Developer** with 4 years of experience in building **scalable web applications, REST APIs, e-commerce platforms, and dynamic portals**.  
-⚡ Skilled in **MVC Architecture, OOPs, Debugging, Payment Gateway Integration, and API Development**.  
-🌱  **Node.js & React.js** Developer .  
+I am a **Software Engineer with 4+ years of experience** in building **scalable web applications, RESTful APIs, e-commerce platforms, and dynamic web portals**.  
+
+I specialize in designing **secure, high-performance backend systems** using modern development practices.  
+
+🚀 Currently expanding into:
+- Vue.js  
+- Python & FastAPI  
+- AI-powered web applications  
+
+🎯 **Goal:** Transition into a high-impact Backend Engineer role in MNC/Product-based companies.  
 
 ---
 
-## 🛠️ Tech Skills  
+## 🛠️ Tech Stack  
 
-- **Languages**: PHP, JavaScript, HTML, CSS  
-- **Frameworks & Libraries**: Laravel, CodeIgniter, jQuery, Bootstrap  
-- **Database**: MySQL, SQLite  
-- **Tools & Utilities**: Git, VS Code, Postman  
-- **Other Expertise**: REST APIs, Stripe/Razorpay/PayU/CCAvenue Integration, Real-Time Chat Systems, Push Notifications  
+### 🔹 Languages
+- PHP  
+- JavaScript  
+- HTML5  
+- CSS3  
 
+### 🔹 Frameworks & Libraries
+- Laravel  
+- CodeIgniter  
+- jQuery  
+- Bootstrap  
+
+### 🔹 Backend & API Development
+- RESTful API Development  
+- MVC Architecture  
+- OOP (Object-Oriented Programming)  
+- Authentication & Authorization  
+- API Integration  
+
+### 🔹 Database
+- MySQL  
+- SQLite  
+
+### 🔹 Tools & Utilities
+- Git & GitHub  
+- VS Code  
+- Postman  
+
+---
+
+## ⚡ Core Expertise  
+
+✔ Scalable Backend Architecture  
+✔ REST API Design & Development  
+✔ Payment Gateway Integration  
+   (Stripe, Razorpay, PayU, CCAvenue)  
+✔ Real-Time Systems (Chat, Notifications)  
+✔ Debugging & Performance Optimization  
+✔ Secure Authentication Systems  
 ---
 
 ## 🚀 Featured Projects  
 
+### 💡 AI-Powered Blog System *(In Progress)*
+- AI-based content generation  
+- Blog-to-video automation (YouTube-ready)  
+- Laravel + FastAPI architecture
+  
 ### [Integrate Instagram reel/post on Website](https://github.com/adsoftwareeng/integration-instgram-reels-on-the-website)  
 
 Integrate Instagram Reels and Posts into your website.
@@ -54,6 +100,15 @@ Role-based login system for **Students & Teachers** with **Stripe payment gatewa
 
 - **PHP Web Developer – iHuntech Pvt Ltd (Sept 2021 – Aug 2022)**  
   Built portals for healthcare, charity & retail with modular CMS and payment systems.  
+
+---
+
+## 📈 Currently Learning  
+
+- System Design (HLD + LLD)  
+- Microservices Architecture  
+- Advanced Backend Engineering  
+- AI Integration in Web Applications  
 
 ---
 
