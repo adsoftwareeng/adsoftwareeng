@@ -1,123 +1,183 @@
-# 👋 Hi, I’m Alok Dixit  
-💻 **Backend-Focused Software Engineer | PHP/Laravel Developer | API Specialist**  
+# 👋 Hi, I’m Alok Dixit
 
-I am a **Software Engineer with 4+ years of experience** in building **scalable web applications, RESTful APIs, e-commerce platforms, and dynamic web portals**.  
+💻 Backend Engineer | Laravel Developer | REST APIs | AI & SaaS Backend Systems
 
-I specialize in designing **secure, high-performance backend systems** using modern development practices.  
+Backend Engineer with 4.8+ years of experience building scalable web applications, RESTful APIs, payment systems, ERP platforms, and SaaS backends using PHP, Laravel, MySQL, and Python FastAPI.
 
-🚀 Currently expanding into:
-- Vue.js  
-- Python & FastAPI  
-- AI-powered web applications  
+I specialize in designing secure, high-performance backend systems with clean architecture, production-grade engineering practices, and scalable API ecosystems.
 
-🎯 **Goal:** Transition into a high-impact Backend Engineer role in MNC/Product-based companies.  
+🚀 Currently Expanding Into:
+
+* Python FastAPI
+* AI-powered backend systems
+* Microservices Architecture
+* Distributed Systems
+* Docker & Cloud Infrastructure
+
+🎯 Goal: Transition into high-impact Backend Engineer roles in MNC, SaaS, and AI-focused product companies.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 ### 🔹 Languages
-- PHP  
-- JavaScript  
-- HTML5  
-- CSS3  
 
-### 🔹 Frameworks & Libraries
-- Laravel  
-- CodeIgniter  
-- jQuery  
-- Bootstrap  
+* PHP
+* Python
+* JavaScript
 
-### 🔹 Backend & API Development
-- RESTful API Development  
-- MVC Architecture  
-- OOP (Object-Oriented Programming)  
-- Authentication & Authorization  
-- API Integration  
+### 🔹 Backend Frameworks
 
-### 🔹 Database
-- MySQL  
-- SQLite  
+* Laravel
+* CodeIgniter
+* FastAPI
 
-### 🔹 Tools & Utilities
-- Git & GitHub  
-- VS Code  
-- Postman  
+### 🔹 Backend & API Engineering
 
----
+* RESTful APIs
+* Authentication & Authorization
+* JWT Authentication
+* RBAC Systems
+* API Integration
+* MVC Architecture
+* Object-Oriented Design
 
-## ⚡ Core Expertise  
+### 🔹 Database Technologies
 
-✔ Scalable Backend Architecture  
-✔ REST API Design & Development  
-✔ Payment Gateway Integration  
-   (Stripe, Razorpay, PayU, CCAvenue)  
-✔ Real-Time Systems (Chat, Notifications)  
-✔ Debugging & Performance Optimization  
-✔ Secure Authentication Systems  
----
+* MySQL
+* SQLite
+* MongoDB (Intermediate)
 
-## 🚀 Featured Projects  
+### 🔹 Cloud & Engineering Tools
 
-### 💡 AI-Powered Blog System *(In Progress)*
-- AI-based content generation  
-- Blog-to-video automation (YouTube-ready)  
-- Laravel + FastAPI architecture
-  
-### [Integrate Instagram reel/post on Website](https://github.com/adsoftwareeng/integration-instgram-reels-on-the-website)  
-
-Integrate Instagram Reels and Posts into your website.
-
-⚡ Tech: HTML, CSS, JavaScript, PHP
-
-🚀 Features:  Display Instagram Reels and Posts dynamically via Instagram API or using embedded codes.
-
-
-### [Upload Single/Multiple File in Node Js ](https://github.com/adsoftwareeng/upload-file-nodejs)  
-
-This project demonstrates how to upload files in Node.js using Express and Multer.
-
-⚡ Tech: Nodejs, Express.js,  Multer
-
-🚀 Features: A simple Node.js and Express.js project to handle **single and multiple file uploads** using **Multer**.  
-
-  
-### [Multi-Role Login + Stripe](https://github.com/adsoftwareeng/multi-role-login-stripe)  
-Role-based login system for **Students & Teachers** with **Stripe payment gateway integration**.  
-- ⚡ Tech: Laravel, MySQL  
-- 🚀 Features: Role management, Payment integration, Secure authentication  
-
+* Git & GitHub
+* Postman
+* AWS S3
+* Redis
+* Docker
+* VS Code
 
 ---
 
-## 💼 Work Experience  
+## ⚡ Core Expertise
 
-- **Senior PHP/Laravel Developer – City Innovates Pvt Ltd (Nov 2023 – Present)**  
-  Working on CMS, University, and NGO portals with REST APIs and payment gateway integration.  
-
-- **PHP Developer – DSV Info Solutions (Sept 2022 – Nov 2023)**  
-  Delivered e-commerce and MLM platforms with full admin & user panels.  
-
-- **PHP Web Developer – iHuntech Pvt Ltd (Sept 2021 – Aug 2022)**  
-  Built portals for healthcare, charity & retail with modular CMS and payment systems.  
-
----
-
-## 📈 Currently Learning  
-
-- System Design (HLD + LLD)  
-- Microservices Architecture  
-- Advanced Backend Engineering  
-- AI Integration in Web Applications  
+✔ Scalable Backend Architecture
+✔ REST API Design & Engineering
+✔ Payment Gateway Integration
+✔ AI Workflow Automation
+✔ Production Debugging & Optimization
+✔ Authentication & Authorization Systems
+✔ SaaS Backend Development
+✔ Performance Tuning & Query Optimization
 
 ---
 
-## 📫 Let’s Connect  
+## 🚀 Featured Projects
 
-- 🔗 [GitHub](https://github.com/adsoftwareeng)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alok-kumar-dixit-0ab147185/)  
-- 📧 Email: a.d.softwareeng@gmail.com  
+### 💡 AI News Automation System *(In Progress)*
+
+AI-powered automated content generation and publishing system using Laravel + FastAPI + OpenAI APIs.
+
+**Features:**
+
+* AI content generation
+* Automated publishing workflows
+* Prompt orchestration
+* Backend microservice architecture
 
 ---
 
-⭐️ *Thanks for visiting my profile! I’m always open to new opportunities, collaborations, and innovative projects.* 🚀
+### 💳 Multi-Gateway Payment Platform
+
+Unified payment integration system supporting:
+
+* Stripe
+* Razorpay
+* PayU
+* CCAvenue
+
+**Features:**
+
+* Webhook handling
+* Idempotent payment processing
+* Retry logic
+* Transaction reconciliation
+
+---
+
+### 🔍 Smart Nested File Search Engine
+
+Recursive file-tree search engine optimized for large-scale document repositories.
+
+**Features:**
+
+* Live AJAX search
+* Recursive folder traversal
+* Pagination & filtering
+* Optimized query performance
+
+---
+
+### 📱 Social Platform
+
+Backend APIs for scalable social platform features:
+
+* Real-time chat
+* Push notifications
+* Feed systems
+* Engagement tracking
+
+---
+
+## 💼 Work Experience
+
+### Backend Engineer — City Innovates Pvt Ltd
+
+📍 Gurugram | Nov 2023 – Present
+
+* Built scalable SaaS and enterprise backend systems
+* Designed RESTful APIs for ERP & CMS platforms
+* Integrated payment gateways and authentication systems
+* Optimized production APIs reducing latency by 60–70%
+
+---
+
+### Software Developer — DSV Info Solutions
+
+📍 India | Sept 2022 – Nov 2023
+
+* Developed fintech & e-commerce backend systems
+* Built wallet, transaction, and reporting modules
+* Integrated multi-stage payment workflows
+
+---
+
+### Web Developer — iHuntech Pvt Ltd
+
+📍 India | Sept 2021 – Aug 2022
+
+* Built backend systems for NGO, healthcare, and education platforms
+* Developed modular CMS and admin systems
+* Worked on API integrations and production maintenance
+
+---
+
+## 📈 Currently Learning
+
+* Advanced System Design
+* Microservices Architecture
+* Distributed Systems
+* Docker & Redis
+* AWS & CI/CD Pipelines
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/adsoftwareeng
+* LinkedIn: https://www.linkedin.com/in/alok-kumar-dixit/
+* Email: [a.d.softwareeng@gmail.com](mailto:a.d.softwareeng@gmail.com)
+
+---
+
+⭐ Open to Backend Engineer, SaaS Backend, API Engineering, and AI-integrated backend opportunities.
