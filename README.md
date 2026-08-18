@@ -2,7 +2,7 @@
 
 💻 Backend Engineer | Laravel Developer | REST APIs | AI & SaaS Backend Systems
 
-Backend Engineer with 4.8+ years of experience building scalable web applications, RESTful APIs, payment systems, ERP platforms, and SaaS backends using PHP, Laravel, MySQL, and Python FastAPI.
+Backend Engineer with 5 years of experience building scalable web applications, RESTful APIs, payment systems, ERP platforms, and SaaS backends using PHP, Laravel, MySQL, and Python FastAPI.
 
 I specialize in designing secure, high-performance backend systems with clean architecture, production-grade engineering practices, and scalable API ecosystems.
 
